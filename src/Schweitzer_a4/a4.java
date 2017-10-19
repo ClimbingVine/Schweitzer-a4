@@ -11,5 +11,7 @@ public class a4 {
         System.out.println(" of the assignment.");
         System.out.println("Assignment #4 that is.");
         System.out.println(new Date());
+        System.out.println("The Try Git tutorial was very helpful.");
+        System.out.println("I'm glad I watched it before starting this part of the assignment.");
     }
 }
